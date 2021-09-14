@@ -1,10 +1,46 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on ... * [Javascript-Zero-to-Hero](https://github.dev/srinivasKandukuri/Javascript-Zero-to-Hero)
-- 👯 I’m looking to collaborate on ...* [DataStructures](https://github.com/srinivasKandukuri/Javascript-Zero-to-Hero/tree/master/DataStructures)
+  
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/srinivaskandukuri/">Srinivas Kandukuri</a></h2>
+<img align="right" src="https://raw.githubusercontent.com/srinivasKandukuri/Javascript-Zero-to-Hero/master/Sinppets/Images/c8fd384d7c164910c5758b34ea35e0aa.gif" alt="srinivaskandukuri" />
+<h2>🔭 I’m currently working on ... *</h2>
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasKandukuri&repo=Javascript-Zero-to-Hero&theme=gotham" alt="srinivaskandukuri" />
 
 
-![Jascript-Zero-to-Hero](https://raw.githubusercontent.com/srinivasKandukuri/Javascript-Zero-to-Hero/master/Sinppets/Images/c8fd384d7c164910c5758b34ea35e0aa.gif)
+  
+  
+
+**👯 I’m looking to collaborate on ...**  [DataStructures](https://github.com/srinivasKandukuri/Javascript-Zero-to-Hero/tree/master/DataStructures)
+
+
+
+
+
+
+
+
+
+**🚀 Some Tools I Use**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" /></code>
+<code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" /></code>
+<code>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /></code>
+<code>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" /></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" /></code>
+<code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" /></code>
+
+
+### Github Stats  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srinivasKandukuri&show_icons=true&theme=gotham" alt="srinivaskandukuri" />
 
 
 <!--
