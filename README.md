@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... * [Javascript-Zero-to-Hero](https://github.dev/srinivasKandukuri/Javascript-Zero-to-Hero)
-- - 👯 I’m looking to collaborate on ...* [DataStructures](https://github.com/srinivasKandukuri/Javascript-Zero-to-Hero/tree/master/DataStructures)
+- 👯 I’m looking to collaborate on ...* [DataStructures](https://github.com/srinivasKandukuri/Javascript-Zero-to-Hero/tree/master/DataStructures)
 
 
 ![Jascript-Zero-to-Hero](https://raw.githubusercontent.com/srinivasKandukuri/Javascript-Zero-to-Hero/master/Sinppets/Images/c8fd384d7c164910c5758b34ea35e0aa.gif)
