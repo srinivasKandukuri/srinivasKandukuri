@@ -1,5 +1,8 @@
 ### Hi there 👋
+![Jascript-Zero-to-Hero](https://raw.githubusercontent.com/srinivasKandukuri/Javascript-Zero-to-Hero/master/Sinppets/Images/c8fd384d7c164910c5758b34ea35e0aa.gif)
 
+
+- 🔭 I’m currently working on ... 
 <!--
 **srinivasKandukuri/srinivasKandukuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
