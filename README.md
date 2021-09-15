@@ -40,8 +40,9 @@
 
 ### Github Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasKandukuri&layout=compact&theme=gotham"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=srinivasKandukuri&show_icons=true&theme=gotham" alt="srinivaskandukuri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasKandukuri&layout=compact&theme=gotham"  alt="srinivaskandukuri"/> </p>
+
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=srinivasKandukuri&show_icons=true&theme=gotham" alt="srinivaskandukuri" /> -->
 
 
 <!--
