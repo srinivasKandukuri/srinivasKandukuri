@@ -10,7 +10,7 @@
   
   
 
-**👯 I’m looking to collaborate on ...**  [DataStructures](https://github.com/srinivasKandukuri/Javascript-Zero-to-Hero/tree/master/DataStructures)
+**👯 I’m looking to collaborate on ...**  [DataStructures](https://github.com/srinivasKandukuri/Golang-Zero-to-Hero)
 
 
 
