@@ -4,7 +4,7 @@
 <img align="right" width ="400px" src="https://raw.githubusercontent.com/srinivasKandukuri/Javascript-Zero-to-Hero/master/Sinppets/Images/c8fd384d7c164910c5758b34ea35e0aa.gif" alt="srinivaskandukuri" />
 **🔭 I’m currently working on ... **
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasKandukuri&repo=Javascript-Zero-to-Hero&theme=gotham" alt="srinivaskandukuri" /> </p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/pin/?username=srinivasKandukuri&repo=Golang-Zero-to-Hero&theme=gotham" alt="srinivaskandukuri" /> </p>
 
 
   
